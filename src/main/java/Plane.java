@@ -14,6 +14,4 @@ public class Plane {
         return type.getCapacity();
     }
 
-
-
 }
